@@ -6,7 +6,7 @@ A sleek and modern web app that generates **motivational, inspirational, and top
 
 ## 🖼️ Live Demo
 
-👉 https://nexium-sanaullah-assignment-quote-a.vercel.app/
+👉 https://quote-generator-app-seven.vercel.app/
 
 ---
 
